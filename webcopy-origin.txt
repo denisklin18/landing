@@ -1,1008 +1,152 @@
-Uri: https://www.worldometers.info/world-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\index.htm
+Uri: https://population.io/
+File Name: c:\Downloaded Web Sites\population.io\index.htm
 Content Type: text/html
 
-Uri: https://www.worldometers.info/world-population/population-by-country/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\population-by-country\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/china-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\china-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/india-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\india-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/us-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\us-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/indonesia-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\indonesia-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/pakistan-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\pakistan-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/brazil-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\brazil-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/nigeria-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\nigeria-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/bangladesh-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\bangladesh-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/russia-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\russia-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/mexico-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\mexico-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/japan-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\japan-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/ethiopia-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\ethiopia-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/philippines-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\philippines-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/egypt-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\egypt-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/vietnam-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\vietnam-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/democratic-republic-of-the-congo-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\democratic-republic-of-the-congo-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/turkey-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\turkey-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/germany-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\germany-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/iran-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\iran-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/thailand-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\thailand-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/world-population-by-year/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\world-population-by-year\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/world-population-projections/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\world-population-projections\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/uk-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\uk-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/france-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\france-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/italy-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\italy-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/tanzania-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\tanzania-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/south-africa-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\south-africa-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/myanmar-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\myanmar-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/kenya-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\kenya-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/south-korea-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\south-korea-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/colombia-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\colombia-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/spain-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\spain-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/uganda-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\uganda-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/argentina-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\argentina-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/algeria-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\algeria-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/sudan-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\sudan-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/ukraine-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\ukraine-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/iraq-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\iraq-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/afghanistan-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\afghanistan-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/poland-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\poland-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/canada-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\canada-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/morocco-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\morocco-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/saudi-arabia-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\saudi-arabia-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/uzbekistan-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\uzbekistan-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/peru-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\peru-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/angola-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\angola-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/malaysia-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\malaysia-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/mozambique-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\mozambique-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/ghana-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\ghana-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/yemen-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\yemen-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/nepal-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\nepal-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/venezuela-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\venezuela-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/madagascar-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\madagascar-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/cameroon-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\cameroon-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/cote-d-ivoire-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\cote-d-ivoire-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/north-korea-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\north-korea-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/australia-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\australia-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/niger-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\niger-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/taiwan-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\taiwan-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/sri-lanka-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\sri-lanka-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/burkina-faso-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\burkina-faso-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/mali-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\mali-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/romania-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\romania-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/malawi-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\malawi-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/chile-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\chile-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/kazakhstan-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\kazakhstan-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/zambia-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\zambia-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/guatemala-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\guatemala-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/ecuador-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\ecuador-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/syria-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\syria-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/netherlands-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\netherlands-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/senegal-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\senegal-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/cambodia-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\cambodia-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/chad-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\chad-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/somalia-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\somalia-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/zimbabwe-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\zimbabwe-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/guinea-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\guinea-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/rwanda-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\rwanda-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/benin-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\benin-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/burundi-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\burundi-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/tunisia-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\tunisia-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/bolivia-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\bolivia-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/belgium-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\belgium-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/haiti-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\haiti-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/cuba-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\cuba-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/south-sudan-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\south-sudan-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/dominican-republic-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\dominican-republic-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/czech-republic-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\czech-republic-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/greece-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\greece-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/jordan-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\jordan-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/portugal-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\portugal-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/azerbaijan-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\azerbaijan-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/sweden-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\sweden-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/honduras-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\honduras-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/united-arab-emirates-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\united-arab-emirates-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/hungary-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\hungary-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/tajikistan-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\tajikistan-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/belarus-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\belarus-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/austria-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\austria-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/papua-new-guinea-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\papua-new-guinea-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/serbia-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\serbia-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/israel-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\israel-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/switzerland-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\switzerland-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/togo-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\togo-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/sierra-leone-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\sierra-leone-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/china-hong-kong-sar-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\china-hong-kong-sar-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/laos-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\laos-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/paraguay-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\paraguay-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/bulgaria-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\bulgaria-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/libya-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\libya-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/lebanon-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\lebanon-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/nicaragua-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\nicaragua-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/kyrgyzstan-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\kyrgyzstan-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/el-salvador-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\el-salvador-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/turkmenistan-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\turkmenistan-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/singapore-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\singapore-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/denmark-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\denmark-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/finland-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\finland-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/congo-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\congo-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/slovakia-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\slovakia-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/norway-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\norway-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/oman-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\oman-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/state-of-palestine-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\state-of-palestine-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/costa-rica-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\costa-rica-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/liberia-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\liberia-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/ireland-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\ireland-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/central-african-republic-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\central-african-republic-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/new-zealand-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\new-zealand-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/mauritania-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\mauritania-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/panama-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\panama-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/kuwait-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\kuwait-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/croatia-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\croatia-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/moldova-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\moldova-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/georgia-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\georgia-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/eritrea-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\eritrea-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/uruguay-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\uruguay-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/bosnia-and-herzegovina-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\bosnia-and-herzegovina-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/mongolia-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\mongolia-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/armenia-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\armenia-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/jamaica-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\jamaica-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/qatar-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\qatar-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/albania-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\albania-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/puerto-rico-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\puerto-rico-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/lithuania-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\lithuania-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/namibia-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\namibia-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/gambia-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\gambia-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/botswana-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\botswana-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/gabon-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\gabon-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/lesotho-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\lesotho-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/macedonia-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\macedonia-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/slovenia-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\slovenia-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/guinea-bissau-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\guinea-bissau-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/latvia-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\latvia-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/bahrain-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\bahrain-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/equatorial-guinea-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\equatorial-guinea-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/trinidad-and-tobago-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\trinidad-and-tobago-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/estonia-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\estonia-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/timor-leste-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\timor-leste-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/mauritius-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\mauritius-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/cyprus-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\cyprus-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/swaziland-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\swaziland-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/djibouti-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\djibouti-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/fiji-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\fiji-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/reunion-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\reunion-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/comoros-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\comoros-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/guyana-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\guyana-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/bhutan-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\bhutan-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/solomon-islands-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\solomon-islands-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/china-macao-sar-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\china-macao-sar-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/montenegro-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\montenegro-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/luxembourg-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\luxembourg-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/western-sahara-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\western-sahara-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/suriname-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\suriname-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/cabo-verde-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\cabo-verde-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/micronesia-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\micronesia-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/maldives-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\maldives-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/malta-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\malta-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/brunei-darussalam-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\brunei-darussalam-population\index.htm
-Content Type: text/html
+Uri: https://population.io/css/vendor.css
+File Name: c:\Downloaded Web Sites\population.io\css\vendor.css
+Content Type: text/css
 
-Uri: https://www.worldometers.info/world-population/guadeloupe-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\guadeloupe-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/belize-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\belize-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/bahamas-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\bahamas-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/martinique-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\martinique-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/iceland-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\iceland-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/vanuatu-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\vanuatu-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/french-guiana-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\french-guiana-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/barbados-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\barbados-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/new-caledonia-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\new-caledonia-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/french-polynesia-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\french-polynesia-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/mayotte-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\mayotte-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/sao-tome-and-principe-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\sao-tome-and-principe-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/samoa-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\samoa-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/saint-lucia-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\saint-lucia-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/channel-islands-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\channel-islands-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/guam-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\guam-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/curacao-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\curacao-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/kiribati-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\kiribati-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/grenada-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\grenada-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/saint-vincent-and-the-grenadines-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\saint-vincent-and-the-grenadines-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/aruba-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\aruba-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/tonga-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\tonga-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/united-states-virgin-islands-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\united-states-virgin-islands-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/seychelles-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\seychelles-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/antigua-and-barbuda-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\antigua-and-barbuda-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/isle-of-man-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\isle-of-man-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/andorra-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\andorra-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/dominica-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\dominica-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/cayman-islands-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\cayman-islands-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/bermuda-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\bermuda-population\index.htm
-Content Type: text/html
+Uri: https://population.io/css/main.3ba3d30.css
+File Name: c:\Downloaded Web Sites\population.io\css\main.3ba3d30.css
+Content Type: text/css
 
-Uri: https://www.worldometers.info/world-population/marshall-islands-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\marshall-islands-population\index.htm
+Uri: https://population.io/cdn-cgi/l/email-protection
+File Name: c:\Downloaded Web Sites\population.io\cdn-cgi\l\email-protection.html
 Content Type: text/html
 
-Uri: https://www.worldometers.info/world-population/northern-mariana-islands-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\northern-mariana-islands-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/greenland-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\greenland-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/american-samoa-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\american-samoa-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/saint-kitts-and-nevis-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\saint-kitts-and-nevis-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/faeroe-islands-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\faeroe-islands-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/sint-maarten-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\sint-maarten-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/monaco-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\monaco-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/turks-and-caicos-islands-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\turks-and-caicos-islands-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/saint-martin-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\saint-martin-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/liechtenstein-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\liechtenstein-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/san-marino-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\san-marino-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/gibraltar-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\gibraltar-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/british-virgin-islands-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\british-virgin-islands-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/caribbean-netherlands-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\caribbean-netherlands-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/palau-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\palau-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/cook-islands-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\cook-islands-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/anguilla-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\anguilla-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/tuvalu-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\tuvalu-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/wallis-and-futuna-islands-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\wallis-and-futuna-islands-population\index.htm
-Content Type: text/html
+Uri: https://population.io/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: c:\Downloaded Web Sites\population.io\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
 
-Uri: https://www.worldometers.info/world-population/nauru-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\nauru-population\index.htm
-Content Type: text/html
-
-Uri: https://www.worldometers.info/world-population/saint-barthelemy-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\saint-barthelemy-population\index.htm
-Content Type: text/html
+Uri: https://population.io/scripts/vendor.js
+File Name: c:\Downloaded Web Sites\population.io\scripts\vendor.js
+Content Type: application/javascript
 
-Uri: https://www.worldometers.info/world-population/saint-helena-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\saint-helena-population\index.htm
-Content Type: text/html
+Uri: https://population.io/scripts/main.3ba3d30.js
+File Name: c:\Downloaded Web Sites\population.io\scripts\main.3ba3d30.js
+Content Type: application/javascript
 
-Uri: https://www.worldometers.info/world-population/saint-pierre-and-miquelon-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\saint-pierre-and-miquelon-population\index.htm
-Content Type: text/html
+Uri: https://population.io/fonts/fontawesome-webfont.eot?v=4.5.0
+File Name: c:\Downloaded Web Sites\population.io\fonts\fontawesome-webfont.eot
+Content Type: binary/octet-stream
 
-Uri: https://www.worldometers.info/world-population/montserrat-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\montserrat-population\index.htm
-Content Type: text/html
+Uri: https://population.io/fonts/fontawesome-webfont.eot?
+File Name: c:\Downloaded Web Sites\population.io\fonts\fontawesome-webfont-1.eot
+Content Type: binary/octet-stream
 
-Uri: https://www.worldometers.info/world-population/falkland-islands-malvinas-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\falkland-islands-malvinas-population\index.htm
-Content Type: text/html
+Uri: https://population.io/fonts/fontawesome-webfont.woff2?v=4.5.0
+File Name: c:\Downloaded Web Sites\population.io\fonts\fontawesome-webfont.woff2
+Content Type: binary/octet-stream
 
-Uri: https://www.worldometers.info/world-population/niue-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\niue-population\index.htm
-Content Type: text/html
+Uri: https://population.io/fonts/fontawesome-webfont.woff?v=4.5.0
+File Name: c:\Downloaded Web Sites\population.io\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
 
-Uri: https://www.worldometers.info/world-population/tokelau-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\tokelau-population\index.htm
-Content Type: text/html
+Uri: https://population.io/fonts/fontawesome-webfont.ttf?v=4.5.0
+File Name: c:\Downloaded Web Sites\population.io\fonts\fontawesome-webfont.ttf
+Content Type: binary/octet-stream
 
-Uri: https://www.worldometers.info/world-population/holy-see-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\holy-see-population\index.htm
-Content Type: text/html
+Uri: https://population.io/fonts/fontawesome-webfont.svg?v=4.5.0
+File Name: c:\Downloaded Web Sites\population.io\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
 
-Uri: https://www.worldometers.info/world-population/asia-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\asia-population\index.htm
-Content Type: text/html
+Uri: https://population.io/fonts/plantin/webfonts/BerlingskeSerif-XBd.eot
+File Name: c:\Downloaded Web Sites\population.io\fonts\plantin\webfonts\BerlingskeSerif-XBd.eot
+Content Type: binary/octet-stream
 
-Uri: https://www.worldometers.info/world-population/northern-america-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\northern-america-population\index.htm
-Content Type: text/html
+Uri: https://population.io/fonts/plantin/webfonts/BerlingskeSerif-XBd.eot?
+File Name: c:\Downloaded Web Sites\population.io\fonts\plantin\webfonts\BerlingskeSerif-XBd-1.eot
+Content Type: binary/octet-stream
 
-Uri: https://www.worldometers.info/world-population/latin-america-and-the-caribbean-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\latin-america-and-the-caribbean-population\index.htm
-Content Type: text/html
+Uri: https://population.io/fonts/plantin/webfonts/BerlingskeSerif-XBd.woff2
+File Name: c:\Downloaded Web Sites\population.io\fonts\plantin\webfonts\BerlingskeSerif-XBd.woff2
+Content Type: binary/octet-stream
 
-Uri: https://www.worldometers.info/world-population/africa-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\africa-population\index.htm
-Content Type: text/html
+Uri: https://population.io/fonts/plantin/webfonts/BerlingskeSerif-XBd.woff
+File Name: c:\Downloaded Web Sites\population.io\fonts\plantin\webfonts\BerlingskeSerif-XBd.woff
+Content Type: application/font-woff
 
-Uri: https://www.worldometers.info/world-population/europe-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\europe-population\index.htm
-Content Type: text/html
+Uri: https://population.io/fonts/sf-ui-display-thin.ttf
+File Name: c:\Downloaded Web Sites\population.io\fonts\sf-ui-display-thin.ttf
+Content Type: binary/octet-stream
 
-Uri: https://www.worldometers.info/world-population/oceania-population/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\oceania-population\index.htm
-Content Type: text/html
+Uri: https://population.io/fonts/sf-ui-display-light.ttf
+File Name: c:\Downloaded Web Sites\population.io\fonts\sf-ui-display-light.ttf
+Content Type: binary/octet-stream
 
-Uri: https://www.worldometers.info/world-population/population-by-oceania-subregion/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\population-by-oceania-subregion\index.htm
-Content Type: text/html
+Uri: https://population.io/fonts/bebasneue.ttf
+File Name: c:\Downloaded Web Sites\population.io\fonts\bebasneue.ttf
+Content Type: binary/octet-stream
 
-Uri: https://www.worldometers.info/world-population/population-by-region/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\population-by-region\index.htm
-Content Type: text/html
+Uri: https://population.io/assets/browsers-sprite.png
+File Name: c:\Downloaded Web Sites\population.io\assets\browsers-sprite.png
+Content Type: image/png
 
-Uri: https://www.worldometers.info/world-population/population-by-asia-subregion/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\population-by-asia-subregion\index.htm
-Content Type: text/html
+Uri: https://population.io/assets/wip.svg
+File Name: c:\Downloaded Web Sites\population.io\assets\wip.svg
+Content Type: image/svg+xml
 
-Uri: https://www.worldometers.info/world-population/population-by-northern-america-subregion/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\population-by-northern-america-subregion\index.htm
-Content Type: text/html
+Uri: https://population.io/assets/sprite-icons.svg
+File Name: c:\Downloaded Web Sites\population.io\assets\sprite-icons.svg
+Content Type: image/svg+xml
 
-Uri: https://www.worldometers.info/world-population/population-by-latin-america-and-the-caribbean-subregion/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\population-by-latin-america-and-the-caribbean-subregion\index.htm
-Content Type: text/html
+Uri: https://population.io/assets/logo-popio.svg
+File Name: c:\Downloaded Web Sites\population.io\assets\logo-popio.svg
+Content Type: image/svg+xml
 
-Uri: https://www.worldometers.info/world-population/population-by-africa-subregion/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\population-by-africa-subregion\index.htm
-Content Type: text/html
+Uri: https://population.io/assets/banner_small.png
+File Name: c:\Downloaded Web Sites\population.io\assets\banner_small.png
+Content Type: image/png
 
-Uri: https://www.worldometers.info/world-population/population-by-europe-subregion/
-File Name: c:\Downloaded Web Sites\www.worldometers.info\world-population\population-by-europe-subregion\index.htm
-Content Type: text/html
+Uri: https://population.io/assets/banner_big.png
+File Name: c:\Downloaded Web Sites\population.io\assets\banner_big.png
+Content Type: image/png
+
+Uri: https://population.io/assets/exit_background.png
+File Name: c:\Downloaded Web Sites\population.io\assets\exit_background.png
+Content Type: image/png
+
+Uri: https://population.io/cdn-cgi/styles/cf.errors.css
+File Name: c:\Downloaded Web Sites\population.io\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://population.io/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: c:\Downloaded Web Sites\population.io\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://population.io/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: c:\Downloaded Web Sites\population.io\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://population.io/cdn-cgi/images/browser-bar.png?1376755637
+File Name: c:\Downloaded Web Sites\population.io\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://population.io/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: c:\Downloaded Web Sites\population.io\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://population.io/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: c:\Downloaded Web Sites\population.io\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://population.io/cdn-cgi/images/cf-icon-ok.png
+File Name: c:\Downloaded Web Sites\population.io\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://population.io/cdn-cgi/images/cf-icon-error.png
+File Name: c:\Downloaded Web Sites\population.io\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://population.io/cdn-cgi/images/cf-icon-browser.png
+File Name: c:\Downloaded Web Sites\population.io\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://population.io/cdn-cgi/images/cf-icon-cloud.png
+File Name: c:\Downloaded Web Sites\population.io\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://population.io/cdn-cgi/images/cf-icon-server.png
+File Name: c:\Downloaded Web Sites\population.io\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
 
